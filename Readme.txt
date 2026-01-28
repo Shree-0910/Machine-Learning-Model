@@ -1,0 +1,1 @@
+To run the main.py file enter in terminal:- python -m streamlit run src/main.py
